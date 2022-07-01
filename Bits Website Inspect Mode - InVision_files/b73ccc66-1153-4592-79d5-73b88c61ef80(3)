@@ -1,0 +1,12 @@
+pendo.guides=[];
+pendo.normalizedUrl="http://projects.invisionapp.com/d/main?fbclid=IwAR2YiycReiiPS8Oo_4qR-l3DFNEc1ts-v0dvek9_HhDVXX4HHKnKAP6Ref0#!/console/20941119/441013867/build";
+pendo.lastGuideStepSeen={"isMultiStep":false,"state":""};
+pendo.guideWidget={"enabled":false,"hidePoweredBy":false,"data":{"guideCssUrl":"","onboarding":false}};
+pendo.guideCssUrl="";
+pendo.throttling={"count":1,"enabled":true,"interval":5,"unit":"Day"};
+pendo.autoOrdering=["JvQZ5BfEOQmxiawd1aTREgRlrhU","b0cHVKMwtdf9n5CbXZElw_rc8nI","QQfUk_4EQsDZVe2cDyuMvDPdvHc","Yrb4Cy1iX41MGO_D4wnAsLGAHSk","vv5PJi3d_ZxeucGgyPPxORJweyI","YtCKIT2y1TEIEQF_JkurUY1zSL8","Z4oeIQjPqH1U5h9YzXjEw8lN6Gg","eCf25o9DFmANwRF2SreA9aiGqfI","XzzDuJL_-VucOBnpVjOmJCIzx0w","rgxDuq2Wy-YwyMepEd7a0Vk1OcM","nfpdv8uNs2SB8Upu9MHQ-uoe2IE","LCptCK4b0zoghzsWxdSMREyYBUM","l-JLjVpwnu25cFzN0flEV-bAlcc","cZvLPHQAsYG5QYnnigCzNvOJpoU","77A9aTJjk1RuvE52NNM1otAl8E4","Dyg0l_Qm1C9JsQfVt_BUZhPHFMg","cx-lAD98HtmzO_qZOGa3F3pDuP0","fPSf5tT0KIFGcTx4khkgZJ6W6Mk","G8DmWmCzccsPyHpgSp7X6wNIPgw","1slLRGyrn87ymLtvtzdY645Jacw","NeJ3Wiqepi8E5PzOwitOEg9mMoI","MZCOABAEU1qNqQiv-w2PZofgVFo","0P-KQkIGkD0YHT_dmzSUGT3O79A","fjT4qYb0e2rnQKvG50e-ScQwvUM","_vN_eFtWw9PnYDPCFMfx1cQIHpc","YPjCHJDh89dqoNxvf4V8FqqpiXw","iKsduo8tnZXqaGDLWHjIEoHevFw","7WoWyOIB8eofPEtZYlp5aCjIrUQ","SswJFjxsmRvkET-oBZAgI2MZxzA"];
+pendo.globalJsUrl="";
+pendo.segmentFlags=[];
+pendo.designerEnabled=false;
+pendo.features=[];
+pendo.preventCodeInjection=false;
